@@ -17,7 +17,7 @@
 		<java.version>17</java.version>
 		<sonar.host.url>http://sonarqube:9000</sonar.host.url>
 		<sonar.token>sqa_18d0704c1a4e4bf07a73090793e1face349dd5c4</sonar.token>
-		<sonar.projectKey>develop</sonar.projetKey>
+		<sonar.projectKey>develop</sonar.projectKey>
 	</properties>
 	<dependencies>
 		<dependency>
